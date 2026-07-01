@@ -8,7 +8,7 @@ Thyroid cancer recurrence affects roughly 28% of patients in this cohort. The go
 
 ## Dataset
 
-- **Source:** [UCI ML Repository — Differentiated Thyroid Cancer Recurrence](https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence)
+- **Source:** [UCI ML Repository: Differentiated Thyroid Cancer Recurrence](https://archive.ics.uci.edu/dataset/915/differentiated+thyroid+cancer+recurrence)
 - **Size:** 383 patients, 16 features, 15-year follow-up (minimum 10 years per patient)
 - **Target:** `Recurred` (`Yes` / `No`)
 
